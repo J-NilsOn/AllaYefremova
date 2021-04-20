@@ -1,5 +1,8 @@
 # aboutme
 
-[![Alla's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllaYefremova&show_icons=true&theme=dark&hide=issues,stars)](https://github.com/AllaYefremova) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllaYefremova&show_icons=true&theme=dark&layout=compact)](https://github.com/AllaYefremova)
-
+<a href="https://github.com/AllaYefremova/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllaYefremova&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllaYefremova&repo=convoychat" />
+</a>
